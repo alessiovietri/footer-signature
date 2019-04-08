@@ -14,7 +14,6 @@ use Al3xTig3r\FooterSignature\Models\Settings;
  */
 class Plugin extends PluginBase
 {
-
     /**
      * @var array Plugin dependencies
      */        
